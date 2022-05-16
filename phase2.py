@@ -1,3 +1,7 @@
+# CODE BY: Laura Belizón Merchán and Jorge Lázaro Ruiz
+# USAGE OF THIS CODE IS STRICTLY FOR REFERENCE ONLY, DO NOT COPY
+
+# File "bst" provided by the professors
 from bst import BinaryNode
 from bst import BinarySearchTree
 
